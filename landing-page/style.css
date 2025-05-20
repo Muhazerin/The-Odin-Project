@@ -11,7 +11,7 @@ body {
     align-items: center;
 }
 
-.hero-container div {
+.hero-container-item {
     flex: 1;
 }
 
@@ -24,6 +24,7 @@ body {
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
+    gap: 120px;
 }
 
