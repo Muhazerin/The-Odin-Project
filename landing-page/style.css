@@ -88,8 +88,19 @@ body {
 
 .quote-container {
     background-color: #E5E7EB;
-    padding: 120px 120px;
+    padding: 120px 360px;
     display: flex;
     align-items: center;
     gap: 120px
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300; /* Light */
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quoter {
+    text-align: end;
 }
