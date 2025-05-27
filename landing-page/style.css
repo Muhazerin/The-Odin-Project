@@ -34,7 +34,7 @@ body {
     margin: 8px 0px;
 }
 
-.main-course {
+.main-course-container {
     background-color: #1F2937;
     padding: 120px 120px;
     display: flex;
@@ -61,5 +61,29 @@ body {
     margin: 8px 0px;
 }
 
+.dessert-info-text {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;
+}
 
+.dessert-info-images {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+.dessert-info-image {
+    height: 216px;
+    width: 216px;
+}
+
+.dessert-image {
+    border-radius: 8px;
+    border: solid #3882F6 8px;
+}
+
+.dessert-text {
+    text-align: center;
+}
 
