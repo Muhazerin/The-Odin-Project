@@ -74,7 +74,6 @@ body {
 }
 
 .dessert-info-image {
-    height: 216px;
     width: 216px;
 }
 
@@ -87,3 +86,10 @@ body {
     text-align: center;
 }
 
+.quote-container {
+    background-color: #E5E7EB;
+    padding: 120px 120px;
+    display: flex;
+    align-items: center;
+    gap: 120px
+}
